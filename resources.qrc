@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/colorless.png</file>
+        <file>IMG/darkness.png</file>
+        <file>IMG/dragon.png</file>
+        <file>IMG/fairy.png</file>
+        <file>IMG/fighting.png</file>
+        <file>IMG/fire.png</file>
+        <file>IMG/grass.png</file>
+        <file>IMG/lighting.png</file>
+        <file>IMG/metal.png</file>
+        <file>IMG/psychic.png</file>
+        <file>IMG/water.png</file>
+    </qresource>
+</RCC>
